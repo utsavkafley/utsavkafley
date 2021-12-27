@@ -52,8 +52,9 @@
 
 </tbody>
 </table>
-[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavkalfey)](https://github.com/utsavkafley/github-readme-stats)
-  
+
+[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavkafley)](https://github.com/utsavkafley/github-readme-stats)
+
   <h2 align="center"> Interests </h3>
   <br/>
   <p align="center">

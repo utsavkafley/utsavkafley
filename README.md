@@ -1,6 +1,6 @@
-<h2 align="center"> Hi, I'm Utsav Kafley <br/> </h2>
+<h2> Hi, I'm Utsav Kafley <br/> </h2>
 
-<p align="center"> <samp> I am a junior-year Computer Science student who enjoys programming because of the problem solving aspect of it. I find the ability to create simple yet elegant solutions to complex problems a major draw towards programming and that is what keeps me in this career path. <p> 
+<p> <samp> I am a junior-year Computer Science student who enjoys programming because of the problem solving aspect of it. I find the ability to create simple yet elegant solutions to complex problems a major draw towards programming and that is what keeps me in this career path. <p> 
   
   
 ## Tech Stack :computer:
@@ -53,9 +53,12 @@
 </tbody>
 </table>
 
+  <h2> Stats </h2>
+  <br/>
+  
 [![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavkafley)](https://github.com/utsavkafley/github-readme-stats)
-
-  <h2 align="center"> Interests </h3>
+  
+  <h2> Interests </h3>
   <br/>
   <p align="center">
   <ul>
@@ -68,8 +71,8 @@
   </p>
   
   
-<h3 align="center"> Other Accounts 📫 </h3>
+<h3> Other Accounts 📫 </h3>
 <br/>
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/utsavkafley/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>

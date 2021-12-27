@@ -52,6 +52,7 @@
 
 </tbody>
 </table>
+[![Utsav's GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavkalfey)](https://github.com/utsavkafley/github-readme-stats)
   
   <h2 align="center"> Interests </h3>
   <br/>
@@ -65,8 +66,9 @@
   </ul>
   </p>
   
+  
 <h3 align="center"> Other Accounts 📫 </h3>
-<br />
+<br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/utsavkafley/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>

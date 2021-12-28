@@ -1,6 +1,7 @@
 <h2> Hi, I'm Utsav Kafley <br/> </h2>
 
-<p> <samp> I am a junior-year Computer Science student who enjoys programming because of the problem solving aspect of it. I find the ability to create simple yet elegant solutions to complex problems a major draw towards programming and that is what keeps me in this career path. <p> 
+<p> <samp> I am a junior-year Computer Science student who enjoys programming because of the problem solving aspect of it. I find the ability to create simple yet elegant solutions to complex problems a major draw towards programming and that is what keeps me in this career path. <br/>
+ I am currently searching for Software Engineer Internship for summer 2022. Find my resume <a href="https://drive.google.com/file/d/1bOS6jPk_NFqpB-w0yKPCPiMIm6iJFks7/view?usp=sharing">here</a></p> 
   
   
 ## Tech Stack :computer:
